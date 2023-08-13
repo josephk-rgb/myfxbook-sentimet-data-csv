@@ -1,0 +1,1 @@
+# myfxbook-sentimet-data-csv
